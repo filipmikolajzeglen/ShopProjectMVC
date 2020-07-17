@@ -1,0 +1,109 @@
+body {
+    background: url(https://www.transparenttextures.com/patterns/bright-squares.png);
+    background-size: auto;
+    margin: auto;
+    width: 300px;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Cuprum', sans-serif;
+    color: #fff;
+}
+
+h2 {
+    font-family: Cuprum;
+    font-size: 160%;
+}
+
+li {
+    font-family: Cuprum;
+    font-size: 110%;
+}
+
+.dataStyle {
+    font-family: Cuprum;
+    font-size: 19px;
+    text-align: center;
+    color: #8d5fa7;
+}
+
+.choiceStyle {
+    margin: 0 auto;
+    padding: 0 20%;
+    color: #000;
+    font-family: Cuprum;
+}
+
+.verticalSpace {
+    margin: 0 0 6px 0;
+}
+
+.buttonStyle {
+    padding: 5% 38%;
+    margin: 17% auto 0;
+    width: 100%;
+    color: #fff;
+    font-family: Cuprum;
+    font-size: 18px;
+    background: #8d5fa7 url(https://www.transparenttextures.com/patterns/bright-squares.png);
+    border: 0px;
+    -webkit-transition: all 900ms ease-in-out;
+    -moz-transition: all 900ms ease-in-out;
+    -o-transition: all 900ms ease-in-out;
+    transition: all 900ms ease-in-out;
+}
+
+.inputStyle {
+    border-radius: 0;
+    border: 1px solid;
+    padding: 9px 19px;
+    margin: 2px;
+    font-size: 16px;
+    font-family: Cuprum;
+}
+
+.buttonStyle:hover {
+    background: #e483d4 url(https://www.transparenttextures.com/patterns/bright-squares.png);
+    -webkit-transition: all 900ms ease-in-out;
+    -moz-transition: all 900ms ease-in-out;
+    -o-transition: all 900ms ease-in-out;
+    transition: all 900ms ease-in-out;
+}
+
+.breakLine {
+    height: 40px;
+    width: 600px;
+    bottom: -16px;
+    background-image: url(https://d3a5h34gwy5glx.cloudfront.net/assets/images/heading-divider-primary.4d6e6164693d5adf5a1315b8b0880602.png);
+}
+
+.tabHeader {
+    background: #8d5fa7 url(https://www.transparenttextures.com/patterns/bright-squares.png);
+    margin: auto;
+    padding: 40px 50px;
+}
+
+.tabContent {
+    background: #ffffff url(https://www.transparenttextures.com/patterns/inspiration-geometry.png);
+    margin: auto;
+    padding: 40px 50px;
+}
+
+.borderStyle {
+    border: 1px solid #fff;
+    padding: 0px 0px;
+    margin: 50% auto auto auto;
+    width: 156%;
+    box-shadow: 5px 5px 45px -27px rgba(0,0,0,0.5);
+    -webkit-box-shadow: 5px 5px 45px -27px rgba(0, 0, 0, 1);
+    -moz-box-shadow: 5px 5px 45px -27px rgba(0,0,0,0.5);
+}
+
+.foot {
+    font-family: Cuprum;
+    color: #916da6;
+    text-align: center;
+    width: 156%;
+    margin: 10% auto;
+}
